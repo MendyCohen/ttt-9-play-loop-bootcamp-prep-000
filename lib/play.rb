@@ -40,7 +40,7 @@ def play(board)
   go = 0
   loop do
     go = go + 1
-    turn(board)
+    turn
     if go >= 9
       break
     end
