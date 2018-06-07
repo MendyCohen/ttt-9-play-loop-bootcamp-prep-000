@@ -44,6 +44,7 @@ def play(board)
     if go >= 9
       break
     end
+  end
 end
 
 
