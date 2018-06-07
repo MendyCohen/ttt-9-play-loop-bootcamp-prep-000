@@ -37,6 +37,7 @@ end
 
 # Define your play method 
 def play(board)
+  go ==
   loop do
     turne = 0 + 1
     turn(board)
